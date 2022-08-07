@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 add secon line
+ss
+=======
+>>>>>>> parent of 7f0daf6 (ss)
 tesst revert
